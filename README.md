@@ -42,9 +42,10 @@ As we mentioned before, there will be a sensor in each area, this sensor is prog
 
 **In the latter case,** the member stopped in the same spot she reserved, but stopped illegally and obstructed the parking of the other member. In this case, also, a message will be sent to her to notify her, and if she did not respond within 10 minutes, an initial warning will be raised to her, and similarly, if the other spot was reserved for another member before, another spot will be reserved for the second member and she will be informed of this. If it is not reserved, the system will make it unavailable so that it will not be reserved by other members.
 
-## If you are interested to see our application
+## If you are interested to see our UI design for this application idea:
 [Ahjizni App video](https://drive.google.com/drive/folders/1--lzI5Uycd48wb2Zl6emru8vv3EK1vOS?usp=sharing)
 
- 
+## If you are interested to see our UX design for this application idea:
+[Ahjizni App documentation](https://drive.google.com/drive/folders/1--lzI5Uycd48wb2Zl6emru8vv3EK1vOS?usp=sharing)
 
 
