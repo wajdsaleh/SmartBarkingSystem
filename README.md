@@ -46,6 +46,6 @@ As we mentioned before, there will be a sensor in each area, this sensor is prog
 [Ahjizni App video](https://drive.google.com/drive/folders/1--lzI5Uycd48wb2Zl6emru8vv3EK1vOS?usp=sharing)
 
 ## To read the entire documentation -You will enjoy it-:
-[Ahjizni App documentation](https://github.com/wajdsaleh/SmartBarkingSystem/blob/main/Smart%20parking%20system%20document.pdf)
+[Ahjizni App documentation & prototype](https://github.com/wajdsaleh/SmartBarkingSystem/blob/main/Smart%20parking%20system%20document.pdf)
 
 
