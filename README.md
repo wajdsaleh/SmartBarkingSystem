@@ -1,9 +1,9 @@
 # Ahjizni | احجزني
-This project is for **Human-Computer Interaction-IT 215** course, the Supervisor is <br>Dr. Asma Al-Shargabi, and the team members are:<br>
+This project is for **Human-Computer Interaction-IT 215** course, <br>Presented to: <br>Dr. Asma Al-Shargabi, <br>Presented by:
 -  Mothla Alnoshan
 -  Rawf Alharbi
--  Feda ALnafisah
--  Wajd ALjaber
+-  Feda Alnafisah
+-  Wajd Aljaber
 -  Saja Alsaab
 -  Lamees Aloqlan
 -  Deem Alorainy
