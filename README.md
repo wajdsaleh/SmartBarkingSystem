@@ -1,9 +1,9 @@
 # Ahjizni | احجزني
 This project is for **Human-Computer Interaction-IT 215** course, <br>Presented to: <br>Dr. Asma Al-Shargabi, <br>Presented by:
+-  Wajd Aljaber
 -  Mothla Alnoshan
 -  Rawf Alharbi
 -  Feda Alnafisah
--  Wajd Aljaber
 -  Saja Alsaab
 -  Lamees Aloqlan
 -  Deem Alorainy
